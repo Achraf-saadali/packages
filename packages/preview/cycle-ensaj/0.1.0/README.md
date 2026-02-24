@@ -63,7 +63,7 @@ Example usage:
 
 1. Import the template functions:
 ```typ
-#import "lib.typ": cover-page, #achraf-code-block
+#import "lib.typ": cover-page, achraf-code-block
 ```
 
 2. Configure your cover page using the `cover-page` function with the parameters listed above.
@@ -111,3 +111,4 @@ The objective is to support fellow students by providing a structured and profes
 
 
 Contributions, suggestions, and improvements are welcome. Feel free to open an issue or submit a pull request.
+
