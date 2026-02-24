@@ -109,4 +109,5 @@ The objective is to support fellow students by providing a structured and profes
 
 ## 🤝 Contributing
 
+
 Contributions, suggestions, and improvements are welcome. Feel free to open an issue or submit a pull request.
