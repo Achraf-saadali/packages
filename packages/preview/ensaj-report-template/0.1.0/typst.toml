@@ -1,5 +1,5 @@
 [package]
-name = "ensaj-report-template"
+name = "cycle-ensaj"
 version = "0.1.0"
 entrypoint = "lib.typ"
 authors = ["SAADALI ACHRAF <achrafsaadalii@gmail.com>"]
@@ -12,3 +12,4 @@ categories = ["report"]
 path = "template"
 entrypoint = "template.typ"
 thumbnail = "thumbnail.png"
+
