@@ -93,7 +93,7 @@
     ]
 
     #if subject-image != none and subject-image != "" {
-      image(subject-image, width: 7cm)
+    box(width: 6cm, subject-image)
     }
   ]
 
@@ -181,3 +181,4 @@
   pagebreak()
 
 }
+
