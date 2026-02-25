@@ -93,7 +93,7 @@
     ]
 
     #if subject-image != none and subject-image != "" {
-      image("../template/"+subject-image, width: 7cm)
+      image(subject-image, width: 7cm)
     }
   ]
 
@@ -179,4 +179,5 @@
   pagebreak()
   outline(title: [List of Figures], target: figure)
   pagebreak()
+
 }
