@@ -8,7 +8,7 @@
 #cover-page(
   title: "Design and Implementation of a Scalable DevOps CI/CD Pipeline for Modern Microservices Architectures",
 
-  subject-image: image("../template/devops_5266248.png)",
+  subject-image: image("../template/devops_5266248.png"),
 
   module: "Architecture microservice et DevOps",
 
@@ -72,4 +72,5 @@
   "SQL",
 
 )
+
 
